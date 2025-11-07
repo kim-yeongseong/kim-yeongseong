@@ -6,8 +6,9 @@
 
 **풀스택 개발자** · 6년+ 경력 · 🇰🇷
 
-[![Email](https://img.shields.io/badge/Email-kim--yeongseong@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kim-yeongseong@naver.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kim--yeongseong.vercel.app-2563EB?style=flat-square&logo=google-chrome&logoColor=white)](https://kim-yeongseong.vercel.app)
+### 🛠️ 기술 스택
+
+`Spring Boot` `Java` `Go` `Vue.js` `TypeScript` `React` `MySQL` `MSSQL` `Redis` `Docker` `Jenkins`
 
 ---
 
@@ -16,10 +17,6 @@
 **주식회사 국제종합물류** · 전산/개발팀 선임연구원 · `2024.11 ~ 현재`
 
 통합 물류 시스템(To-Be) 풀스택 개발 · Spring Boot 3 · Vue 3 · TypeScript
-
-### 🛠️ 기술 스택
-
-`Spring Boot` `Java` `Go` `Vue.js` `TypeScript` `React` `MySQL` `MSSQL` `Redis` `Docker` `Jenkins`
 
 ### 📊 GitHub
 
