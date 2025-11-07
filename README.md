@@ -80,51 +80,12 @@ AI 시대에는 기술적 격차보다 **협업 능력과 의사소통**이 더 
 <tr>
 <td width="50%" align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kim-yeongseong&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1F2937&bg_color=FFFFFF&hide=contribs)](https://github.com/kim-yeongseong)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kim-yeongseong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=contribs)](https://github.com/kim-yeongseong)
 
 </td>
 <td width="50%" align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-yeongseong&layout=compact&theme=default&hide_border=true&title_color=2563EB&text_color=1F2937&bg_color=FFFFFF&langs_count=6)](https://github.com/kim-yeongseong)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Toy Projects
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 📦 프로젝트 1
-간단한 설명
-
-`React` `TypeScript`
-
-[GitHub](#) · [Demo](#)
-
-</td>
-<td width="33%" align="center">
-
-### 📦 프로젝트 2
-간단한 설명
-
-`Vue` `Node.js`
-
-[GitHub](#) · [Demo](#)
-
-</td>
-<td width="33%" align="center">
-
-### 📦 프로젝트 3
-간단한 설명
-
-`Spring Boot` `MySQL`
-
-[GitHub](#) · [Demo](#)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-yeongseong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6)](https://github.com/kim-yeongseong)
 
 </td>
 </tr>
