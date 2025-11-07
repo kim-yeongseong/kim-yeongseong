@@ -1,24 +1,24 @@
 <div align="center">
 
-# 👋 안녕하세요, 김영성입니다
-
-### 💭 _"변화에 두려워하지 않는 궁금증 많은 개발자"_
+## 👋 김영성 · _"변화에 두려워하지 않는 궁금증 많은 개발자"_
 
 **Full Stack Developer** · **6+ Years** · 🇰🇷
 
-<br>
-
-### 🛠️ Tech Stack
-
-`Spring Boot` `Java` `Go` `Vue.js` `TypeScript` `React` `MySQL` `MSSQL` `Redis` `Docker` `Jenkins`
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 <table>
 <tr>
@@ -74,11 +74,7 @@ AI 시대에는 기술적 격차보다 **협업 능력과 의사소통**이 더 
 </tr>
 </table>
 
-<br>
-
 ---
-
-<br>
 
 <div align="center">
 
