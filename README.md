@@ -34,7 +34,7 @@ const kimYoungSeong = {
     "풀스택 개발 (Spring Boot + Vue.js)",
     "API 설계 및 연동 (RESTful, EDI)",
   ],
-2
+
   philosophy: "변화에 두려워하지 않는 궁금증 많은 개발자 🚀"
 };
 ```
