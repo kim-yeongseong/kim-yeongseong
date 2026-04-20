@@ -26,35 +26,6 @@
 
 ---
 
-## 🌟 Featured Side Project — 마이픽 AI (MyPick AI)
-
-> 개인 비용으로 Claude Code 등 AI 기술을 실제 프로덕션에 적용한 **살아있는 프로젝트**
-
-<table>
-<tr>
-<td>
-
-**🎯 무엇인가?** KOSPI/KOSDAQ 3,000개 종목을 AI가 매일 자동 분석해 전략별 추천 종목과 푸시 알림을 제공하는 **PWA 웹앱**
-
-**⚙️ 어떻게 돌아가는가?**
-- `Claude Scheduled Task`로 AI 에이전트 오케스트레이션 → **하루 2회(07:35/17:35) 무인 자동 분석**
-- `SKILL.md` (AI 프롬프트) **1,000줄 규모 엔지니어링** (뉴스 3분할 · 감성 분류 · 신선도 검증 · 매크로 템플릿)
-- `Supabase RLS` 멀티테넌트 · `카카오 OAuth` · `Firebase FCM` 푸시
-
-**💰 100% 무료 인프라** — Vercel(Free) + Supabase(Free) + Firebase(Spark) + GitHub Actions 무료 한도
-
-**👥 현재 20~30명 베타 운영 중**
-
-🔗 **[Live Demo →](https://mypick-ai.vercel.app)** · **[시작 가이드 →](https://mypick-ai.vercel.app/guide)**
-
-`Next.js 15` `TypeScript` `Tailwind` `PWA` `Supabase` `Firebase FCM` `Python` `Claude Scheduled Task` `GitHub Actions`
-
-</td>
-</tr>
-</table>
-
----
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -107,6 +78,35 @@ AI(Claude, Cursor, Copilot 등)를 **"단순 코드 생성기"가 아닌 "함께
 </td>
 </tr>
 </table>
+
+## 🌟 Featured Side Project — 마이픽 AI (MyPick AI)
+
+> 개인 비용으로 Claude Code 등 AI 기술을 실제 프로덕션에 적용한 **살아있는 프로젝트**
+
+<table>
+<tr>
+<td>
+
+**🎯 무엇인가?** KOSPI/KOSDAQ 3,000개 종목을 AI가 매일 자동 분석해 전략별 추천 종목과 푸시 알림을 제공하는 **PWA 웹앱**
+
+**⚙️ 어떻게 돌아가는가?**
+- `Claude Scheduled Task`로 AI 에이전트 오케스트레이션 → **하루 2회(07:35/17:35) 무인 자동 분석**
+- `SKILL.md` (AI 프롬프트) **1,000줄 규모 엔지니어링** (뉴스 3분할 · 감성 분류 · 신선도 검증 · 매크로 템플릿)
+- `Supabase RLS` 멀티테넌트 · `카카오 OAuth` · `Firebase FCM` 푸시
+
+**💰 100% 무료 인프라** — Vercel(Free) + Supabase(Free) + Firebase(Spark) + GitHub Actions 무료 한도
+
+**👥 현재 20~30명 베타 운영 중**
+
+🔗 **[Live Demo →](https://mypick-ai.vercel.app)** · **[시작 가이드 →](https://mypick-ai.vercel.app/guide)**
+
+`Next.js 15` `TypeScript` `Tailwind` `PWA` `Supabase` `Firebase FCM` `Python` `Claude Scheduled Task` `GitHub Actions`
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
