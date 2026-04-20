@@ -99,25 +99,6 @@ AI 를 "함께 리뷰하는 협업 파트너"로 활용. 회사에 Claude Code �
 | 마이픽 AI 전체 소스 — Next.js + Supabase + Python 파이프라인 + Claude Task 통합 구조 | 이 포트폴리오 사이트 · Next.js + Framer Motion + 데이터 중심 아키텍처 |
 | [Live →](https://mypick-ai.vercel.app) | [Repo →](https://github.com/kim-yeongseong/my-portfolio) |
 
----
-
 <div align="center">
-
-### 📊 GitHub Activity
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=kim-yeongseong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=contribs)](https://github.com/kim-yeongseong)
-[![Streak](https://streak-stats.demolab.com?user=kim-yeongseong&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)](https://github.com/kim-yeongseong)
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-yeongseong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)](https://github.com/kim-yeongseong)
-
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=kim-yeongseong&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF)](https://github.com/kim-yeongseong)
-
----
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudtjd7820@naver.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kim-yeongseong.vercel.app)
-[![MyPick AI](https://img.shields.io/badge/MyPick_AI-6366F1?style=for-the-badge&logo=sparkfun&logoColor=white)](https://mypick-ai.vercel.app)
-
-<sub>⭐ 지속 업데이트 · Last updated: 2026-04-20</sub>
-
+<sub>⭐ 실제 활동·배포 기록은 위 링크의 <b>Portfolio</b> · <b>마이픽 AI</b> 에서 직접 확인하실 수 있습니다.</sub>
 </div>
