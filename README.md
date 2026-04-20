@@ -108,26 +108,32 @@ AI(Claude, Cursor, Copilot 등)를 **"단순 코드 생성기"가 아닌 "함께
 
 ---
 
----
-
 ## 🎨 Other Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 [stock-briefing-system](https://github.com/kim-yeongseong/stock-briefing-system)
-주식 브리핑 Python 프로젝트 — 마이픽 AI의 초기 프로토타입
+### 🚀 swing-trading (마이픽 AI 소스) 🔒
 
-`Python`
+**마이픽 AI 의 전체 소스 코드 리포지토리** (비공개)
+
+Next.js 15 + Supabase + Python 파이프라인 + Claude Scheduled Task 통합 구조. 실제 운영 중인 서비스의 백엔드·프론트엔드·자동화 스크립트가 모두 관리됩니다.
+
+[Live →](https://mypick-ai.vercel.app) · [시작 가이드 →](https://mypick-ai.vercel.app/guide)
+
+`Next.js 15` `Supabase` `Python` `Claude`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 [my-portfolio](https://github.com/kim-yeongseong/my-portfolio)
-이 포트폴리오 사이트 자체 — Next.js + Framer Motion
 
-`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
+**이 포트폴리오 사이트 자체** — Next.js + Framer Motion
+
+타임라인 UI · 스크롤 애니메이션 · 다크 모드 지원. 데이터 중심 아키텍처로 경력 · 프로젝트 · 학습 이력을 체계적으로 관리.
+
+`Next.js 15` `TypeScript` `Tailwind CSS` `Framer Motion`
 
 </td>
 </tr>
@@ -143,48 +149,6 @@ AI(Claude, Cursor, Copilot 등)를 **"단순 코드 생성기"가 아닌 "함께
 
 **CLAUDE.md 컨텍스트 문서 체계 설계** · **프롬프트 엔지니어링 (SKILL.md 1,000줄)** · **AI 에이전트 오케스트레이션**
 
----
-
-## 📊 GitHub Activity
-
 <div align="center">
-
-<table>
-<tr>
-<td>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kim-yeongseong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=contribs)](https://github.com/kim-yeongseong)
-
-</td>
-<td>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kim-yeongseong&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)](https://github.com/kim-yeongseong)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-yeongseong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)](https://github.com/kim-yeongseong)
-
-</td>
-</tr>
-</table>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kim-yeongseong&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF)](https://github.com/kim-yeongseong)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's connect!
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudtjd7820@naver.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kim-yeongseong.vercel.app)
-[![MyPick AI](https://img.shields.io/badge/MyPick_AI-6366F1?style=for-the-badge&logo=sparkfun&logoColor=white)](https://mypick-ai.vercel.app)
-
-<sub>⭐ 이 프로필은 지속적으로 업데이트됩니다. 최근 수정: 2026-04-20</sub>
-
+<sub>⭐ 실제 활동·배포 기록은 상단의 <b>Portfolio</b> · <b>마이픽 AI</b> 에서 직접 확인하실 수 있습니다.</sub>
 </div>
